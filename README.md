@@ -1,14 +1,14 @@
 # PHP File Manager - Sprache: German/Deutsch
 Der PHP File Manager ist ein hervorragendes Tool zur Ordner- und Dateiverwaltung, wenn ein SSH oder FTP Zugriff auf einen Webspace nicht gegeben ist.
 
-![PHP File Manager](https://raw.github.com/alexantr/filemanager/master/phpfm.png)
+![PHP File Manager](https://raw.github.com/TrainRadar/filemanager/master/aaaaa.PNG)
 
 **ACHTUNG! Es ist nicht empfehlenswert, den File-Manager mit den Standard-Zugangsdaten in einem öffentlichen Verzeichnis zu betreiben. Dies kann zu erheblichen Sicherheitsproblemen führen. Falls ein schneller Einsatz angesetzt wird, ist zu empfehlen, die Datei nach dem Einsatz anderweitig vom Server zu entfernen.**
 
 ## Vorraussetzungen
 
 - PHP Version 5.2 oder neuer.
-- [Zip extension](http://php.net/manual/en/book.zip.php) für ZIP-Pack und ZIP Entpackungsverfahren. (In den meisten Webspaces vorhanden)
+- [ZIP PHP Erweiterung](http://php.net/manual/en/book.zip.php) für ZIP-Pack und ZIP Entpackungsverfahren. (In den meisten Webspaces vorhanden)
 - Erweiterungen wie Fileinfo, iconv und mbstring. (Wichtig für die Grundsätzliche Funktion des Scripts, sind auch in den meisten Webspaces bereits vorhanden)
 
 ## Installationsprozess
